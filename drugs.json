@@ -139,7 +139,7 @@
         "generic": " Omeprazole",
         "tradeNames": ["OMIZ ","GASEC","RISEK"],
         "category": "GIT",
-        "pregnancySafety": "Safe to use as a 3rd choice",
+        "pregnancySafety": "Safe to use as a 3rd choice after Antacids and H2 receptor antagonists",
         "Lactation": "Not Recomended",
         "otc": true
     },
@@ -148,15 +148,15 @@
         "generic": " Nizatidine",
         "tradeNames": ["FIXIT"],
         "category": "GIT",
-        "pregnancySafety": "Safe to use as a 2nd choice",
+        "pregnancySafety": "Safe to use as a 2nd choice after Antacids",
         "Lactation": "Probably Compatible",
         "otc": true
     },
 {
-        "generic": " Calcium Carbonate  & Magnesium Carbonate",
+        "generic": " Calcium Carbonate  & Magnesium Carbonate antacids",
         "tradeNames": ["RENNIE"],
         "category": "GIT",
-        "pregnancySafety": "Safe ",
+        "pregnancySafety": "Safe to use as a 1st choice",
         "Lactation": " Probably Compatible ",
         "otc": true
     },
@@ -190,8 +190,8 @@
         "generic": " Lactulose ",
         "tradeNames": ["EZILAX "," DUPHALAC "," LACTULOSE "],
         "category": "GIT",
-        "pregnancySafety": " Safe but 2nd choice after Bulk laxatives ",
-        "Lactation": "Safe but 2nd choice after Bulk laxatives",
+        "pregnancySafety": "Safe but 2nd choice after Bulk forming laxatives (Fibers)",
+        "Lactation": "Safe but 2nd choice after Bulk forming laxatives (Fibers)",
         "otc": true
     },
 {
@@ -369,8 +369,8 @@
         "generic": "Senna",
         "tradeNames": ["A-Lax ","Agiolax "],
         "category": "Natural",
-        "pregnancySafety": "Not Recommended , may be used with sever caution only in Second and third trimester ",
-        "Lactation": "May be used",
+        "pregnancySafety": "Not Recommended",
+        "Lactation": "Not Recommended",
         "otc": true
     },
     {
@@ -385,8 +385,8 @@
         "generic": "Cascara",
         "tradeNames": ["Jamieson Laxaco"],
         "category": "Natural",
-        "pregnancySafety": "Not Recommended , may be used with sever caution",
-        "Lactation": "Probably Compatible",
+        "pregnancySafety": "Not Recommended",
+        "Lactation": "Not Recommended",
         "otc": true,
         "contra":true
     },
