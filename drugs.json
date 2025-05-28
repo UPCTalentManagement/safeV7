@@ -371,7 +371,7 @@
         "tradeNames": ["Jp Hepaform Liver Support ","Legalon Forte"],
         "category": "Natural",
         "pregnancySafety": "Safe in second and third trimester only",
-        "Lactation": "May be....",
+        "Lactation": "No enough data available - potential risks",
         "otc": true
     },
     {
@@ -379,7 +379,7 @@
         "tradeNames": ["A-Lax ","Agiolax "],
         "category": "Natural",
         "pregnancySafety": "Not Recommended , may be used with sever caution only in Second and third trimester ",
-        "Lactation": "May be....",
+        "Lactation": "May be used",
         "otc": true
     },
     {
@@ -387,15 +387,15 @@
         "tradeNames": ["Arkopharma Horse Chestnut ","Hemorrelax ","Lecoxen"],
         "category": "Natural",
         "pregnancySafety": "Safe ",
-        "Lactation": "May be....",
+        "Lactation": "No available data",
         "otc": true
     },
     {
         "generic": "Cascara",
         "tradeNames": ["Jamieson Laxaco"],
         "category": "Natural",
-        "pregnancySafety": "Contraindicated during pregnancy  ",
-        "Lactation": "May be....",
+        "pregnancySafety": "Not Recommended , may be used with sever caution",
+        "Lactation": "Probably Compatible",
         "otc": true,
         "contra":true
     },
@@ -403,8 +403,8 @@
         "generic": "Ginseng",
         "tradeNames": ["Marnys Ginseng","ROYAL JELLY PLUS GINSENG "],
         "category": "Natural",
-        "pregnancySafety": "Contraindicated during pregnancy  ",
-        "Lactation": "May be....",
+        "pregnancySafety": "Contraindicated during pregnancy",
+        "Lactation": "Potential Toxicity",
         "otc": true,
         "contra":true
     },
@@ -412,8 +412,8 @@
         "generic": "Licorice",
         "tradeNames": ["Glavolean","Rexsol Licorice "],
         "category": "Natural",
-        "pregnancySafety": "Contraindicated during pregnancy  ",
-        "Lactation": "May be....",
+        "pregnancySafety": "Contraindicated during pregnancy",
+        "Lactation": "No available data",
         "otc": true,
         "contra":true
     },
@@ -422,7 +422,7 @@
         "tradeNames": ["Jamieson Relaxing Herbal Formula "],
         "category": "Natural",
         "pregnancySafety": "Contraindicated during pregnancy  ",
-        "Lactation": "May be....",
+        "Lactation": " Possible Toxicity",
         "otc": true,
         "contra":true
     }
